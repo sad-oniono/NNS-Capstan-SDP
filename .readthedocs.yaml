@@ -15,4 +15,4 @@ build:\
   os: windows-11\
 \
 mkdocs:\
-  configuration: mkdocs.yml}
+  configuration: mkdocs.yml
